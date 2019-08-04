@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TypoExpander">
+</Property><Property Name="Solution File" Value="E:\projects\TypoExpander\TypoExpander.sln">
+</Property><Property Name="User Options File" Value="E:\projects\TypoExpander\TypoExpander.suo">
+</Property><Property Name="Date" Value="Thursday, July 17, 2008">
+</Property><Property Name="Time" Value="9:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TypoExpander.sln" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TypoExpander.suo" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander.suo">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\TypoExpander.csproj" Description="Project file successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\TypoExpander.csproj">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\TypoExpander.csproj.user" Description="Project user file successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\TypoExpander.csproj.user">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\AddDialog.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\AddDialog.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\AssemblyInfo.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\ConnectionString.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\ConnectionString.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\Dictionaries.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\Dictionaries.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\Dictionary.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\Dictionary.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\InputVariables.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\InputVariables.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\KeyListener.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\KeyListener.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\MainEntry.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\MainEntry.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\NativeWin32.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\NativeWin32.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\Options.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\Options.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\ProgKeys.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\ProgKeys.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\ShortCut.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\ShortCut.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\SpecialValues.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\SpecialValues.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\UserActivityHook.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\UserActivityHook.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\VariableInput.cs" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\VariableInput.cs">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\App.ico" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\App.ico">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\AddDialog.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\AddDialog.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\Dictionaries.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\Dictionaries.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\InputVariables.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\InputVariables.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\KeyListener.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\KeyListener.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\MainEntry.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\MainEntry.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\Options.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\Options.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\ShortCut.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\ShortCut.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\SpecialValues.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\SpecialValues.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\VariableInput.resx" Description="File successfully backed up as E:\projects\TypoExpander\backup\Backup\TypoExpander\VariableInput.resx">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\TypoExpander.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TypoExpander" Source="TypoExpander\TypoExpander.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TypoExpander.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TypoExpander.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TypoExpander" Source="TypoExpander\TypoExpander.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
